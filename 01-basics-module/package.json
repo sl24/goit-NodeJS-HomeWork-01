@@ -1,0 +1,30 @@
+{
+  "name": "goit-nodejs-hw-01",
+  "version": "1.0.0",
+  "description": "NodeJS-HW-01",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sl24/goit-nodejs-hw-01.git"
+  },
+  "author": "V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sl24/goit-nodejs-hw-01/issues"
+  },
+  "homepage": "https://github.com/sl24/goit-nodejs-hw-01#readme",
+  "dependencies": {
+    "commander": "7.0.0",
+    "shortid": "^2.2.16",
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
