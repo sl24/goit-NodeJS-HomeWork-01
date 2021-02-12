@@ -42,7 +42,7 @@ function removeContact(contactId) {
     const contacts = JSON.parse(data.toString());
     const newContacts = contacts.filter((contact) => contact.id !== contactId);
     if (contacts.length === newContacts.length) {
-      return console.error(`Contact with ID: ${contactId} not found!`);
+      return console.error(`Contact with ID: "${contactId}" not found!`);
     }
 
     fs.writeFile(contactsPath, JSON.stringify(newContacts), (error) => {
