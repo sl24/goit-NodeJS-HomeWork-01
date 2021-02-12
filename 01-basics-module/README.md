@@ -1,6 +1,6 @@
 # goit-NodeJS-HomeWork-01
 
-![Скрин 1](https://dropmefiles.com/ybCiR)
+![Скрин 1](https://ibb.co/NYV0pvJ)
 
 ![Скрин 2](https://github.com/sl24/goit-NodeJS-HomeWork-01/blob/01-basics-module/img/01-node-basics-module-2.png)
 
